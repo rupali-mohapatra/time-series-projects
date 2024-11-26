@@ -5,3 +5,4 @@ Session Analysis: Understanding the temporal distribution and trends in web sess
 User Engagement Analysis: Evaluating how engaged users are during their sessions across different channels, aiming to enhance user interaction and satisfaction.
 Channel Performance: Assessing the effectiveness of various traffic channels in attracting and retaining users, to optimize marketing spend and strategy.
    
+2. Time Series Forecasting with ARIMA(Autoregressive Integrated Moving Average)
